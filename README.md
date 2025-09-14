@@ -32,3 +32,10 @@ npm start
 * Abubakar Tariq
 * Zain
 * Hashim
+
+Copyright (c) 2025 Abubakar Tariq  
+All Rights Reserved.  
+
+This project and its source code may not be copied, modified, distributed, or used in any form  
+without explicit written permission from the author.  
+
